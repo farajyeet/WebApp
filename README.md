@@ -2,4 +2,4 @@
 
 ### Screenshots
 
-<img style="padding: src="https://raw.githubusercontent.com/faraaj/WebApp/main/assets/unknown.png"/>
+<img style src="https://raw.githubusercontent.com/faraaj/WebApp/main/assets/unknown.png"/>
